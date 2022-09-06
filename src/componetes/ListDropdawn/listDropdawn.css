@@ -1,0 +1,29 @@
+.list-wrapper{
+    width: 100%;
+}
+.list-wrapper label{
+    display: block;
+    margin-top: 28px;
+    font-size: 17px;
+    text-align: left;
+    font-weight: bold;
+    
+}
+
+.list-wrapper select{
+    width: 100%;
+    display: block;
+    background-color: #fff;
+    border: none;
+    padding: 10px 20px;
+    height: 60px;
+    font-size: 15px;
+    margin-top: 5px;
+    border-radius: 4px;
+    box-shadow: 5px 5px 20px #e4e0e0;
+    box-sizing: border-box;
+}
+
+.list-wrapper input::placeholder{
+    color: #b5b5b5;
+}

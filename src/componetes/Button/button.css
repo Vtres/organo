@@ -1,0 +1,19 @@
+.button-wrapper{
+    text-align: left;
+}
+
+.button-style{
+    background-color: #6278f7;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 16px;
+    padding: 20px;
+    border: none;
+    margin: 30px 0 0 0;
+    color: white;
+    cursor: pointer;
+}
+
+.button-style:hover{
+    color: #95ffd4;
+}
